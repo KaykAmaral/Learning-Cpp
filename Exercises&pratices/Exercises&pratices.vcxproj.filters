@@ -24,5 +24,8 @@
     <ClCompile Include="FernandaExercices\Exercise_1.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="FernandaExercices\Exercise_2.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
