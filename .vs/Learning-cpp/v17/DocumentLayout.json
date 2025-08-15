@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VSCode\\Learning-Cpp\\",
+  "WorkspaceRootPath": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VSCode\\Learning-cpp\\Exercises\u0026pratices\\pratice_1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|solutionrelative:Exercises\u0026pratices\\pratice_1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\pratice_1\\Inputs\u0026Manipulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|solutionrelative:Exercises\u0026pratices\\pratice_1\\Inputs\u0026Manipulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\pratice_1\\SimpleThings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|solutionrelative:Exercises\u0026pratices\\pratice_1\\SimpleThings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VSCode\\Learning-Cpp\\Exercises\u0026pratices\\pratice_1\\Main.cpp",
-              "RelativeDocumentMoniker": "Exercises\u0026pratices\\pratice_1\\Main.cpp",
-              "ToolTip": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VSCode\\Learning-Cpp\\Exercises\u0026pratices\\pratice_1\\Main.cpp",
-              "RelativeToolTip": "Exercises\u0026pratices\\pratice_1\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Title": "Inputs\u0026Manipulation.cpp",
+              "DocumentMoniker": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\pratice_1\\Inputs\u0026Manipulation.cpp",
+              "RelativeDocumentMoniker": "Exercises\u0026pratices\\pratice_1\\Inputs\u0026Manipulation.cpp",
+              "ToolTip": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\pratice_1\\Inputs\u0026Manipulation.cpp",
+              "RelativeToolTip": "Exercises\u0026pratices\\pratice_1\\Inputs\u0026Manipulation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-15T02:46:25.097Z",
+              "WhenOpened": "2025-08-15T14:41:46.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleThings.cpp",
+              "DocumentMoniker": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\pratice_1\\SimpleThings.cpp",
+              "RelativeDocumentMoniker": "Exercises\u0026pratices\\pratice_1\\SimpleThings.cpp",
+              "ToolTip": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\pratice_1\\SimpleThings.cpp",
+              "RelativeToolTip": "Exercises\u0026pratices\\pratice_1\\SimpleThings.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-15T14:35:07.502Z",
               "EditorCaption": ""
             }
           ]
