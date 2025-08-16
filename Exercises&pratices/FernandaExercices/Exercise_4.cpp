@@ -18,5 +18,7 @@ int main() {
 
 	area(smaller, large, height);
 
+	return 0;
+
 }
 */
