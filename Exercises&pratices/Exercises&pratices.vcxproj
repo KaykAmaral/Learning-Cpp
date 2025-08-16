@@ -129,6 +129,8 @@
     <ClCompile Include="FernandaExercices\Exercise_4.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_5.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_6.cpp" />
+    <ClCompile Include="FernandaExercices\Exercise_7.cpp" />
+    <ClCompile Include="FernandaExercices\Exercise_8.cpp" />
     <ClCompile Include="pratice_1\Inputs&amp;Manipulation.cpp" />
     <ClCompile Include="pratice_1\SimpleThings.cpp" />
   </ItemGroup>

@@ -39,5 +39,11 @@
     <ClCompile Include="FernandaExercices\Exercise_6.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="FernandaExercices\Exercise_7.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="FernandaExercices\Exercise_8.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
