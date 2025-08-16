@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercice_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|solutionrelative:Exercises\u0026pratices\\FernandaExercices\\Exercice_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|solutionrelative:Exercises\u0026pratices\\FernandaExercices\\Exercise_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Exercice_3.cpp",
-              "DocumentMoniker": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercice_3.cpp",
-              "RelativeDocumentMoniker": "Exercises\u0026pratices\\FernandaExercices\\Exercice_3.cpp",
-              "ToolTip": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercice_3.cpp*",
-              "RelativeToolTip": "Exercises\u0026pratices\\FernandaExercices\\Exercice_3.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-15T19:52:26.99Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "Exercises\u0026pratices\\FernandaExercices\\Exercise_2.cpp",
               "ToolTip": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_2.cpp",
               "RelativeToolTip": "Exercises\u0026pratices\\FernandaExercices\\Exercise_2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-15T19:30:13.415Z",
+              "WhenOpened": "2025-08-16T00:34:15.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise_4.cpp",
+              "DocumentMoniker": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_4.cpp",
+              "RelativeDocumentMoniker": "Exercises\u0026pratices\\FernandaExercices\\Exercise_4.cpp",
+              "ToolTip": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_4.cpp*",
+              "RelativeToolTip": "Exercises\u0026pratices\\FernandaExercices\\Exercise_4.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-16T00:33:41.997Z",
               "EditorCaption": ""
             }
           ]
