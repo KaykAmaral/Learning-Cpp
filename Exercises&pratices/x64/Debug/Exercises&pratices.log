@@ -1,6 +1,4 @@
 ﻿  Exercise_14.cpp
-C:\Users\kaykd\Desktop\UDEMY\C++\WS-VS\Learning-Cpp\Exercises&pratices\FernandaExercices\Exercise_14.cpp(7,10): warning C4305: 'inicializando': truncamento de '__int64' para 'int'
-C:\Users\kaykd\Desktop\UDEMY\C++\WS-VS\Learning-Cpp\Exercises&pratices\FernandaExercices\Exercise_14.cpp(7,12): warning C4309: 'inicializando': truncamento de valor constante
-C:\Users\kaykd\Desktop\UDEMY\C++\WS-VS\Learning-Cpp\Exercises&pratices\FernandaExercices\Exercise_14.cpp(8,10): warning C4305: 'inicializando': truncamento de '__int64' para 'int'
-C:\Users\kaykd\Desktop\UDEMY\C++\WS-VS\Learning-Cpp\Exercises&pratices\FernandaExercices\Exercise_14.cpp(8,12): warning C4309: 'inicializando': truncamento de valor constante
+  Exercise_15.cpp
+  Gerando Código...
   Exercises&pratices.vcxproj -> C:\Users\kaykd\Desktop\UDEMY\C++\WS-VS\Learning-Cpp\x64\Debug\Exercises&pratices.exe
