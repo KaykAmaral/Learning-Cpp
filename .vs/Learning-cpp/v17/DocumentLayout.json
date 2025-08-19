@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|solutionrelative:Exercises\u0026pratices\\FernandaExercices\\Exercise_13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|solutionrelative:Exercises\u0026pratices\\FernandaExercices\\Exercise_12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Exercise_13.cpp",
+              "DocumentMoniker": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_13.cpp",
+              "RelativeDocumentMoniker": "Exercises\u0026pratices\\FernandaExercices\\Exercise_13.cpp",
+              "ToolTip": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_13.cpp",
+              "RelativeToolTip": "Exercises\u0026pratices\\FernandaExercices\\Exercise_13.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-19T20:05:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Exercise_12.cpp",
               "DocumentMoniker": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_12.cpp",
               "RelativeDocumentMoniker": "Exercises\u0026pratices\\FernandaExercices\\Exercise_12.cpp",
