@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="FernandaExercices\Exercice_3.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_1.cpp" />
+    <ClCompile Include="FernandaExercices\Exercise_10.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_2.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_4.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_5.cpp" />
