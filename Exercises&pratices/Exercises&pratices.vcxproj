@@ -141,6 +141,7 @@
     <ClCompile Include="FernandaExercices\Exercise_9.cpp" />
     <ClCompile Include="pratice_1\Inputs&amp;Manipulation.cpp" />
     <ClCompile Include="pratice_1\SimpleThings.cpp" />
+    <ClCompile Include="pratice_2\Main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

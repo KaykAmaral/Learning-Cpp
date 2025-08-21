@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|solutionrelative:Exercises\u0026pratices\\FernandaExercices\\Exercise_16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\pratice_2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3164C2F2-9BE4-4FFD-8929-2CD4292900F8}|Exercises\u0026pratices\\Exercises\u0026pratices.vcxproj|solutionrelative:Exercises\u0026pratices\\pratice_2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Exercise_16.cpp",
-              "DocumentMoniker": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_16.cpp",
-              "RelativeDocumentMoniker": "Exercises\u0026pratices\\FernandaExercices\\Exercise_16.cpp",
-              "ToolTip": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\FernandaExercices\\Exercise_16.cpp*",
-              "RelativeToolTip": "Exercises\u0026pratices\\FernandaExercices\\Exercise_16.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\pratice_2\\Main.cpp",
+              "RelativeDocumentMoniker": "Exercises\u0026pratices\\pratice_2\\Main.cpp",
+              "ToolTip": "C:\\Users\\kaykd\\Desktop\\UDEMY\\C\u002B\u002B\\WS-VS\\Learning-Cpp\\Exercises\u0026pratices\\pratice_2\\Main.cpp",
+              "RelativeToolTip": "Exercises\u0026pratices\\pratice_2\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-19T23:57:01.453Z",
+              "WhenOpened": "2025-08-20T23:52:54.127Z",
               "EditorCaption": ""
             }
           ]
