@@ -136,6 +136,7 @@
     <ClCompile Include="FernandaExercices\Exercise_18.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_19.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_2.cpp" />
+    <ClCompile Include="FernandaExercices\Exercise_20.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_4.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_5.cpp" />
     <ClCompile Include="FernandaExercices\Exercise_6.cpp" />
