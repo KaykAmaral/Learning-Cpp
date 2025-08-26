@@ -1,2 +1,5 @@
-﻿  Main.cpp
-  Exercises&pratices.vcxproj -> C:\Users\kaykd\Desktop\UDEMY\C++\WS-VS\Learning-Cpp\x64\Debug\Exercises&pratices.exe
+﻿  Exercise_17.cpp
+  Exercise_18.cpp
+  Gerando Código...
+Exercise_18.obj : error LNK2005: main já definida no Exercise_17.obj
+C:\Users\kaykd\Desktop\UDEMY\C++\WS-VS\Learning-Cpp\x64\Debug\Exercises&pratices.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos
