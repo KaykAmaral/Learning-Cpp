@@ -99,5 +99,8 @@
     <ClCompile Include="FernandaExercices\Exercise_25.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
+    <ClCompile Include="FernandaExercices\Exercise_26.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
