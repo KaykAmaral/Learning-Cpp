@@ -1,2 +1,4 @@
-﻿  Exercise_20.cpp
+﻿  Exercise27.cpp
+C:\Users\kaykd\Desktop\UDEMY\C++\WS-VS\Learning-Cpp\Exercises&pratices\FernandaExercices\Exercise27.cpp(7,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\kaykd\Desktop\UDEMY\C++\WS-VS\Learning-Cpp\Exercises&pratices\FernandaExercices\Exercise27.cpp(27,15): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
   Exercises&pratices.vcxproj -> C:\Users\kaykd\Desktop\UDEMY\C++\WS-VS\Learning-Cpp\x64\Debug\Exercises&pratices.exe
